@@ -25,3 +25,5 @@ The project can either be played on the terminal or in a graphical window.
 ## State of the project
 
 This project is very unlikely to be updated.
+
+The executable can showcase bugs, notably during clicks. As it was our first project based on C and linked lists.
